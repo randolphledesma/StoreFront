@@ -1,3 +1,3 @@
-# [StoreFront](https://randop.github.io/StoreFront/)
+# [StoreFront](https://github.com/randolphledesma/StoreFront)
 
-React project.
+ReactNative project.
