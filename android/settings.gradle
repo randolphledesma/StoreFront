@@ -1,0 +1,3 @@
+rootProject.name = 'StoreFront'
+
+include ':app'
